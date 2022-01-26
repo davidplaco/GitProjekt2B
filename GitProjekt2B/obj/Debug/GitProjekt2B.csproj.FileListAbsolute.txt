@@ -1,0 +1,7 @@
+C:\Users\placek\source\repos\GitProjekt2B\GitProjekt2B\bin\Debug\GitProjekt2B.exe.config
+C:\Users\placek\source\repos\GitProjekt2B\GitProjekt2B\bin\Debug\GitProjekt2B.exe
+C:\Users\placek\source\repos\GitProjekt2B\GitProjekt2B\bin\Debug\GitProjekt2B.pdb
+C:\Users\placek\source\repos\GitProjekt2B\GitProjekt2B\obj\Debug\GitProjekt2B.csproj.AssemblyReference.cache
+C:\Users\placek\source\repos\GitProjekt2B\GitProjekt2B\obj\Debug\GitProjekt2B.csproj.CoreCompileInputs.cache
+C:\Users\placek\source\repos\GitProjekt2B\GitProjekt2B\obj\Debug\GitProjekt2B.exe
+C:\Users\placek\source\repos\GitProjekt2B\GitProjekt2B\obj\Debug\GitProjekt2B.pdb
